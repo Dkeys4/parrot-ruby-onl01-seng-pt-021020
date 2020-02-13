@@ -1,4 +1,4 @@
-def parrot ("squawki.")
+def parrot ("Squawki!")
   puts "squawki"
   "squawki"
 end
